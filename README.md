@@ -9,25 +9,48 @@
 ## 👨‍💻 About Me
 💡 Passionate about building scalable and high-impact digital products  
 🔥 Love solving real-world problems through technology  
-🌱 Exploring: **Cloud Deployments, AI Integrations, Microservices Architecture**  
-💬 Expertise in: **React, Node.js, FastAPI, MongoDB, SQL, Java**  
+🌱 Exploring: **Cloud Deployments, AI Automations, Microservices Architecture**  
+💬 Expertise in: **designing and building full-stack web platforms, API-first backends, scalable database architectures, and cloud-ready deployments**  
 🎯 2025 Goal: Build innovative SaaS products & grow as a tech leader  
 
 > **"Code isn’t just logic — it’s imagination, experience and purpose."**
 
 ---
 
-<!-- ──────────────── TECH STACK ──────────────── -->
-## 🛠️ Tech Stack & Tools
-
-### 🚀 Languages & Frameworks
+<!-- ──────────────── DEVELOPER ARSENAL ──────────────── -->
+<h2 align="center">⚡ Developer Arsenal ⚡</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,python,fastapi,java,spring,cpp" />
+  <i>The evolving stack of technologies, frameworks & tools I use to craft modern digital experiences.</i>
 </p>
 
-### 🗄️ Databases & DevOps
+### 🎨 Frontend & Modern Web
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,aws,vercel,netlify,git,github,docker,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,remix,astro,svelte,redux,tailwind,bootstrap,materialui,vite,figma" />
+</p>
+
+### 🧠 Backend, APIs & Services
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,fastapi,django,flask,java,spring,deno,bun,graphql,prisma" />
+</p>
+
+### 🤖 AI, Data & Automation
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
+</p>
+
+### 🗄️ Databases, Storage & BaaS
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite,supabase,firebase" />
+</p>
+
+### ☁️ DevOps, Cloud & CI/CD
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,vercel,netlify,githubactions,nginx,cloudflare,linux" />
+</p>
+
+### ⚙️ Tools, IDEs & Productivity
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,notion" />
 </p>
 
 ---
@@ -76,16 +99,21 @@
 
 ---
 
-<!-- ──────────────── CONNECT ──────────────── -->
+<!-- ──────────────── CONNECT (ICONS ONLY) ──────────────── -->
 ## 🤝 Connect With Me
-📫 Email: **subratabauri2020@gmail.com**  
-💼 LinkedIn: **https://linkedin.com/in/subrata-bauri**  
-🌐 Portfolio: _Coming soon_  
-
 <p align="center">
-  <a href="mailto:subratabauri2020@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-  <a href="https://linkedin.com/in/subrata-bauri"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://github.com/subrata-bauri"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+  <a href="mailto:subratabauri2020@gmail.com" title="Email">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+  <a href="https://linkedin.com/in/subrata-bauri" title="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="https://github.com/subrata-bauri" title="GitHub">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
+  </a>
+  <a href="https://instagram.com/iam_subratab" title="@iam_subratab">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  </a>
 </p>
 
 ---
