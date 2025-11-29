@@ -76,22 +76,6 @@
 
 ---
 
-<!-- ──────────────── ACTIVITY GRAPH ──────────────── -->
-## 📈 Contribution & Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subrata-bauri&theme=react-dark&hide_border=true" />
-</p>
-
----
-
-<!-- ──────────────── CONTRIBUTION SNAKE ──────────────── -->
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/subrata-bauri/subrata-bauri/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 <!-- ──────────────── VISITORS COUNTER ──────────────── -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=subrata-bauri&label=Profile+Visits&color=1E90FF&style=for-the-badge" />
