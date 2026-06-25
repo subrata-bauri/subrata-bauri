@@ -40,10 +40,10 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring" />
 </p>
 
-### 🤖 AI/ML
+<!-- ### 🤖 AI/ML
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
-</p>
+</p> -->
 
 ### 🗄️ Databases
 <p align="center">
@@ -55,10 +55,10 @@
   <img src="https://skillicons.dev/icons?i=jest,selenium" />
 </p>
 
-### ☁️ DevOps, Cloud & CI/CD
+<!-- ### ☁️ DevOps, Cloud & CI/CD
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,vercel,netlify,githubactions" />
-</p>
+</p> -->
 
 ### ⚙️ Tools, IDEs & Productivity
 <p align="center">
