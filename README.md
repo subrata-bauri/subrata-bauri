@@ -171,17 +171,21 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subrata-bauri&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
+
 
 <!-- ──────────────── SNAKE CONTRIBUTION ──────────────── -->
 
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/subrata-bauri/subrata-bauri/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subrata-bauri/subrata-bauri/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subrata-bauri/subrata-bauri/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/subrata-bauri/subrata-bauri/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
----
+
 <!-- ──────────────── GITHUB TROPHIES ──────────────── -->
 
 ## 🏆 GitHub Trophy Case
@@ -200,7 +204,7 @@
 ---
 
 <!-- ──────────────── CONNECT (ICONS ONLY) ──────────────── -->
----
+
 ## 🤝 Connect With Me
 <p align="center">
   <a href="mailto:subratabauri2020@gmail.com" title="Email">
