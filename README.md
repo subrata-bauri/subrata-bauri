@@ -171,23 +171,6 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subrata-bauri&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subrata-bauri&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
-
-<!-- ──────────────── GITHUB TROPHIES ──────────────── -->
-
-## 🏆 GitHub Trophy Case
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=subrata-bauri&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
-
-
 
 <!-- ──────────────── VISITORS COUNTER ──────────────── -->
 <!--<p align="center">
